@@ -1,0 +1,1 @@
+Write a single fortune cookie message, at most 20 words of plain text, for a crypto trader who has just been liquidated, as a deterministic Python program that writes exactly that line to /output/entry.txt.
